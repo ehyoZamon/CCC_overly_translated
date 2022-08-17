@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+  m_Name: TMP Settings
+  m_EditorClassIdentifier: 
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 1
+  m_EnableRaycastTarget: 1
+  m_GetFontFeaturesAtRuntime: 1
+  m_missingGlyphCharacter: 0
+  m_warningsDisabled: 1
+  m_defaultFontAsset: {fileID: 11400000, guid: 17e50f216a46e364181d7d499d644c70, type: 2}
+  m_defaultFontAssetPath: Fonts & Materials/
+  m_defaultFontSize: 36
+  m_defaultAutoSizeMinRatio: 0.5
+  m_defaultAutoSizeMaxRatio: 2
+  m_defaultTextMeshProTextContainerSize: {x: 20, y: 5}
+  m_defaultTextMeshProUITextContainerSize: {x: 200, y: 50}
+  m_autoSizeTextContainer: 0
+  m_IsTextObjectScaleStatic: 0
+  m_fallbackFontAssets:
+  - {fileID: 11400000, guid: 9fac76fd3c42feb4d9116beeba4a5cb0, type: 2}
+  - {fileID: 11400000, guid: 6cd165ac9c51775428c52361bd05b2b4, type: 2}
+  - {fileID: 11400000, guid: a608d7c5095ac6348b15d4c1312df593, type: 2}
+  - {fileID: 11400000, guid: 3e8434c6c02365a4095a7245e9689a33, type: 2}
+  - {fileID: 11400000, guid: 4a5959ac08ca02448a1beccd20db2957, type: 2}
+  - {fileID: 11400000, guid: ea996183973d2e849b8fbbb0a76e223c, type: 2}
+  - {fileID: 11400000, guid: ef1e461d0e2c8bf4391dfa84da995da4, type: 2}
+  - {fileID: 11400000, guid: b382aa3b095e17340adae78939595bee, type: 2}
+  - {fileID: 11400000, guid: 4dfe6a79cba4f734eba85aa1e2078884, type: 2}
+  - {fileID: 11400000, guid: ffea650727cad6646bbca4f256765ad8, type: 2}
+  - {fileID: 11400000, guid: 956bea48151956146b76101723d81e60, type: 2}
+  - {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  - {fileID: 11400000, guid: aefbfbf6ac4817f4282731e1c077b431, type: 2}
+  - {fileID: 11400000, guid: 6c27071dd469ffd4b9fc843ae54dcd44, type: 2}
+  - {fileID: 11400000, guid: c83e1ae17b4d64f43ab85e13c4fad8a5, type: 2}
+  - {fileID: 11400000, guid: 05c1db3cb94d8444296477587199cc78, type: 2}
+  - {fileID: 11400000, guid: 8b4335557c219a04cb234d1117402cd5, type: 2}
+  - {fileID: 11400000, guid: 57ce30c2d7b777444951c70120e94d4b, type: 2}
+  - {fileID: 11400000, guid: f0bb790119561524894e699e2d711af3, type: 2}
+  - {fileID: 11400000, guid: 8a677d86261fac14295193c6b8353653, type: 2}
+  - {fileID: 11400000, guid: 377f68b8492c7ff4886647fbfe7859e8, type: 2}
+  - {fileID: 11400000, guid: 428c3e5f5977a44409a200b7d4790734, type: 2}
+  - {fileID: 11400000, guid: 811cb6fae9dc41745bf40c847eb64f0e, type: 2}
+  - {fileID: 11400000, guid: 89f6d26edf0df3b4a99f6fe90dc4d295, type: 2}
+  - {fileID: 11400000, guid: 30fec4dcf973c22438ff1272031fc549, type: 2}
+  - {fileID: 11400000, guid: 57b1752a2654fad4dbb1d4803200fe5f, type: 2}
+  - {fileID: 11400000, guid: 8c8be10d527773c4598e5551249e22ee, type: 2}
+  - {fileID: 11400000, guid: 3cc497bdfdc6d954c8e977db51a97557, type: 2}
+  - {fileID: 11400000, guid: ed40dd96def78b7459efbf5fe0a0a48a, type: 2}
+  - {fileID: 11400000, guid: cd37192954a7cd345affbf3f71c7a39e, type: 2}
+  m_matchMaterialPreset: 1
+  m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45,
+    type: 2}
+  m_defaultSpriteAssetPath: Sprite Assets/
+  m_enableEmojiSupport: 1
+  m_MissingCharacterSpriteUnicode: 0
+  m_defaultColorGradientPresetsPath: Color Gradient Presets/
+  m_defaultStyleSheet: {fileID: 11400000, guid: f952c082cb03451daed3ee968ac6c63e,
+    type: 2}
+  m_StyleSheetsResourcePath: 
+  m_leadingCharacters: {fileID: 4900000, guid: d82c1b31c7e74239bff1220585707d2b, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: fade42e8bc714b018fac513c043d323b,
+    type: 3}
+  m_UseModernHangulLineBreakingRules: 0

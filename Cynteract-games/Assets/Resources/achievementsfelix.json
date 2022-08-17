@@ -1,0 +1,546 @@
+{
+  "Champion": {
+    "description": "Train 3 days in a row",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_0()",
+        "Signature2": "System.UInt32 <.cctor>b__12_0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_1",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_1()",
+        "Signature2": "System.UInt32 <.cctor>b__12_1()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_0",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_0()",
+            "Signature2": "System.UInt32 <.cctor>b__12_0()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_1",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_1()",
+            "Signature2": "System.UInt32 <.cctor>b__12_1()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "0001-01-01T00:00:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Point Collector": {
+    "description": "Reach 500 points in a game",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_2",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_2()",
+        "Signature2": "System.UInt32 <.cctor>b__12_2()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_3",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_3()",
+        "Signature2": "System.UInt32 <.cctor>b__12_3()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_2",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_2()",
+            "Signature2": "System.UInt32 <.cctor>b__12_2()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_3",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_3()",
+            "Signature2": "System.UInt32 <.cctor>b__12_3()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "2021-10-22T14:07:37.4197023+02:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Game Collector": {
+    "description": "Play every game",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_4",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_4()",
+        "Signature2": "System.UInt32 <.cctor>b__12_4()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_5",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_5()",
+        "Signature2": "System.UInt32 <.cctor>b__12_5()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_4",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_4()",
+            "Signature2": "System.UInt32 <.cctor>b__12_4()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_5",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_5()",
+            "Signature2": "System.UInt32 <.cctor>b__12_5()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "2021-10-22T14:07:37.4217031+02:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Movement Record": {
+    "description": "Do your movement 100 times",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_6",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_6()",
+        "Signature2": "System.UInt32 <.cctor>b__12_6()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_7",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_7()",
+        "Signature2": "System.UInt32 <.cctor>b__12_7()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_6",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_6()",
+            "Signature2": "System.UInt32 <.cctor>b__12_6()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_7",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_7()",
+            "Signature2": "System.UInt32 <.cctor>b__12_7()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "2021-10-22T14:07:37.4257027+02:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Night owl": {
+    "description": "Train after 8 pm for at least 10 minutes",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_8",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_8()",
+        "Signature2": "System.UInt32 <.cctor>b__12_8()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_9",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_9()",
+        "Signature2": "System.UInt32 <.cctor>b__12_9()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_8",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_8()",
+            "Signature2": "System.UInt32 <.cctor>b__12_8()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_9",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_9()",
+            "Signature2": "System.UInt32 <.cctor>b__12_9()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "0001-01-01T00:00:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Weekend gamer": {
+    "description": "Train for at least 10 minutes on weekends",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_10",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_10()",
+        "Signature2": "System.UInt32 <.cctor>b__12_10()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_11",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_11()",
+        "Signature2": "System.UInt32 <.cctor>b__12_11()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_10",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_10()",
+            "Signature2": "System.UInt32 <.cctor>b__12_10()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_11",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_11()",
+            "Signature2": "System.UInt32 <.cctor>b__12_11()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "0001-01-01T00:00:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Game master": {
+    "description": "Play a game more than 10 times",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_12",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_12()",
+        "Signature2": "System.UInt32 <.cctor>b__12_12()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_13",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_13()",
+        "Signature2": "System.UInt32 <.cctor>b__12_13()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_12",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_12()",
+            "Signature2": "System.UInt32 <.cctor>b__12_12()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_13",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_13()",
+            "Signature2": "System.UInt32 <.cctor>b__12_13()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "0001-01-01T00:00:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  },
+  "Explorer": {
+    "description": "Collect 10 hidden items",
+    "currentValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_14",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_14()",
+        "Signature2": "System.UInt32 <.cctor>b__12_14()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "totalValueFunction": {
+      "Method": {
+        "Name": "<.cctor>b__12_15",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+        "Signature": "UInt32 <.cctor>b__12_15()",
+        "Signature2": "System.UInt32 <.cctor>b__12_15()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {}
+    },
+    "isActiveFunction": {
+      "Method": {
+        "Name": "<.ctor>b__0",
+        "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Cynteract.CCC.AchievementManager+AchievementData+<>c__DisplayClass6_0",
+        "Signature": "Boolean <.ctor>b__0()",
+        "Signature2": "System.Boolean <.ctor>b__0()",
+        "MemberType": 8,
+        "GenericArguments": null
+      },
+      "Target": {
+        "currentValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_14",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_14()",
+            "Signature2": "System.UInt32 <.cctor>b__12_14()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        },
+        "totalValueFunction": {
+          "Method": {
+            "Name": "<.cctor>b__12_15",
+            "AssemblyName": "Assembly-CSharp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Cynteract.CCC.AchievementManager+<>c",
+            "Signature": "UInt32 <.cctor>b__12_15()",
+            "Signature2": "System.UInt32 <.cctor>b__12_15()",
+            "MemberType": 8,
+            "GenericArguments": null
+          },
+          "Target": {}
+        }
+      }
+    },
+    "achievementTime": "0001-01-01T00:00:00",
+    "active": false,
+    "currentValue": 0,
+    "totalValue": 0
+  }
+}

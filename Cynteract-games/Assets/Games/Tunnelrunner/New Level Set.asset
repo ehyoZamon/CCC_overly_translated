@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7baba86ede987ee49ba846f28a73498f, type: 3}
+  m_Name: New Level Set
+  m_EditorClassIdentifier: 
+  lvls:
+  - items:
+    - objectsToSpawn: {fileID: 8837743937611386912, guid: 795b3b9eb9a90ef4e842f5266140a9b7,
+        type: 3}
+      probability: 10
+    - objectsToSpawn: {fileID: 6045673386521077067, guid: 53794f8f2959eb140b1f45e723248077,
+        type: 3}
+      probability: 10
+    scoreNeededForNext: 50
+  - items:
+    - objectsToSpawn: {fileID: 8837743937611386912, guid: 795b3b9eb9a90ef4e842f5266140a9b7,
+        type: 3}
+      probability: 10
+    - objectsToSpawn: {fileID: 8837743937611386912, guid: 5e9dbec433985d143836f7347609f482,
+        type: 3}
+      probability: 1
+    - objectsToSpawn: {fileID: 6045673386521077067, guid: 53794f8f2959eb140b1f45e723248077,
+        type: 3}
+      probability: 10
+    scoreNeededForNext: 2000
+  - items:
+    - objectsToSpawn: {fileID: 8837743937611386912, guid: 795b3b9eb9a90ef4e842f5266140a9b7,
+        type: 3}
+      probability: 20
+    - objectsToSpawn: {fileID: 8837743937611386912, guid: 5e9dbec433985d143836f7347609f482,
+        type: 3}
+      probability: 2
+    - objectsToSpawn: {fileID: 6045673386521077067, guid: 53794f8f2959eb140b1f45e723248077,
+        type: 3}
+      probability: 20
+    - objectsToSpawn: {fileID: 1554936492166847791, guid: b7c72e52eaf975a4e8f354084b5fa1fd,
+        type: 3}
+      probability: 1
+    scoreNeededForNext: -1

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)..\netcoreapp20\DPDFNative_x64.dll" Condition=" '$(OS)' == 'Windows_NT' ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)..\netcoreapp20\DPDFNative_x86.dll" Condition=" '$(OS)' == 'Windows_NT' ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)..\netcoreapp20\libDPDFNative_x64.so" Condition=" '$([System.Runtime.InteropServices.RuntimeInformation]::IsOSPlatform($([System.Runtime.InteropServices.OSPlatform]::Linux)))' ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Target Name="CopyDLLtoOutput" BeforeTargets="Build">
+    <Copy SourceFiles="$(MSBuildThisFileDirectory)..\netcoreapp20\DynamicPDF.NETStandard20.dll" DestinationFolder="$(TargetDir)\" />
+    <Copy SourceFiles="$(MSBuildThisFileDirectory)..\netcoreapp20\DynamicPDF.NETStandard20.xml" DestinationFolder="$(TargetDir)\" />
+  </Target>
+</Project>

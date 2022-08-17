@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467c0c0309315f104f1813051d38392628353f662e23eae5263df0f238e7e2287129370bfb25
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467c0c0309315f104f1813051d38392628353f662e23eae5263dd0f238e7e2287129370bfb25
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146467c0c0309315f13531102111738212d347f1d251c27e4ef2635e7f578fce9332b25
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467c0c0309315f174a1e18121438392628353f662926ecee3134f0f238e7e228123d300ca1290a371526
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146467c0c0309315f005e1e1818162d2d25237f0e28133dedee3339efe278fce9332b25
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146467f0c1a0d2011305a5f23041d38012928312a2c1036ecf47b0df1e224c4e6343e3b3c0fea3210701431fb1e10
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146467c0c0309315f13531102111738212d347f1e2a183de7f37b14e7f133e5f4756e6d7717e1351027
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464677020d0d2e19395e041f18166a0027273424271a7cd6f23536f1eb37fdee3531103603eb350a394f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146467c01011a275f075a1d19583f26233e2370092c103cacf53a31f6fe
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646782e2d43111326511505583b090f66333e243d04
+      flags: 0
+    lightmappingDeviceAndPlatform:
+      value: 53
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0

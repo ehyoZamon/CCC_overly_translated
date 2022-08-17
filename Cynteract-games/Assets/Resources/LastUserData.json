@@ -1,0 +1,24 @@
+{
+  "loginDatas": [
+    {
+      "userName": "$MYHASH$V1$10000$eBsF0gecXNZ/4/NiiCp6dNIFPsB13BoUtYHDNJVSzm9NB/QO",
+      "password": "$MYHASH$V1$10000$VybJkM9vYRG+Dba8Ihuw8ZycQmlcPXb1Awms5haZg7/z3/Ji"
+    },
+    {
+      "userName": "$MYHASH$V1$10000$gTPeW0z03DFYBcYN5tGZx4iQpXvBnoGJLmDyxnTSXhp8zYUC",
+      "password": "$MYHASH$V1$10000$LGTVZYdLocWnXHUpm75/U5WOZ1/12Cl64Ue2ChUyJPHBAU8T"
+    },
+    {
+      "userName": "$MYHASH$V1$10000$m5z8pV9uXSD+RXlXptSH3yygx7Sl7VcIsDZUKUySf9YsQvRV",
+      "password": "$MYHASH$V1$10000$czfDyhFYtcQgirElgVHwySytpDqjI38nymRckhi+h66Kgus4"
+    },
+    {
+      "userName": "$MYHASH$V1$10000$HsO/uyb47MSqf+d5bZ5+Sp/0tb0Tq8FzES1dWo6RTiA8sY9C",
+      "password": "$MYHASH$V1$10000$ruopmNO6DlMBkwtqtdTJe913YrnWArY4p6LgwM8UHBR+CfcH"
+    },
+    {
+      "userName": "$MYHASH$V1$10000$yaMmFtoK5k7bEjirvjusNmWn4J+weRU94NR/QzeCqbYfatTB",
+      "password": "$MYHASH$V1$10000$8m2nfKOAWJUI8pKnRAPSbmp3d9c6Ka2af6ac4x+/0w9gQVlP"
+    }
+  ]
+}

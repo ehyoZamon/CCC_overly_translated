@@ -1,0 +1,51 @@
+output>>
+output>>C:\Users\manue\Documents\Unity\cynteract-games\Assets>.\esptool.exe --chip esp32 --port COM136 --baud 921600 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size detect 0xe000 boot_app0.bin 0x1000 bootloader_qio_80m.bin 0x10000 CynteractGlove.ino.bin 0x8000 CynteractGlove.ino.partitions.bin 
+output>>esptool.py v3.0-dev
+output>>Serial port COM136
+output>>Connecting......
+output>>Chip is ESP32-D0WD (revision 1)
+output>>Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+output>>Crystal is 40MHz
+output>>MAC: c8:2b:96:b8:e9:c0
+output>>Uploading stub...
+output>>Running stub...
+output>>Stub running...
+output>>Changing baud rate to 921600
+output>>Changed.
+output>>Configuring flash size...
+output>>Auto-detected Flash size: 4MB
+output>>Compressed 8192 bytes to 47...
+output>>Writing at 0x0000e000... (100 %)
+output>>Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 4096.0 kbit/s)...
+output>>Hash of data verified.
+output>>Compressed 18656 bytes to 12053...
+output>>Writing at 0x00001000... (100 %)
+output>>Wrote 18656 bytes (12053 compressed) at 0x00001000 in 0.2 seconds (effective 915.6 kbit/s)...
+output>>Hash of data verified.
+output>>Compressed 503856 bytes to 230953...
+output>>Writing at 0x00010000... (6 %)
+output>>Writing at 0x00014000... (13 %)
+output>>Writing at 0x00018000... (20 %)
+output>>Writing at 0x0001c000... (26 %)
+output>>Writing at 0x00020000... (33 %)
+output>>Writing at 0x00024000... (40 %)
+output>>Writing at 0x00028000... (46 %)
+output>>Writing at 0x0002c000... (53 %)
+output>>Writing at 0x00030000... (60 %)
+output>>Writing at 0x00034000... (66 %)
+output>>Writing at 0x00038000... (73 %)
+output>>Writing at 0x0003c000... (80 %)
+output>>Writing at 0x00040000... (86 %)
+output>>Writing at 0x00044000... (93 %)
+output>>Writing at 0x00048000... (100 %)
+output>>Wrote 503856 bytes (230953 compressed) at 0x00010000 in 3.9 seconds (effective 1041.6 kbit/s)...
+output>>Hash of data verified.
+output>>Compressed 3072 bytes to 128...
+output>>Writing at 0x00008000... (100 %)
+output>>Wrote 3072 bytes (128 compressed) at 0x00008000 in 0.0 seconds (effective 2730.6 kbit/s)...
+output>>Hash of data verified.
+output>>
+output>>Leaving...
+output>>Hard resetting via RTS pin...
+output>>
+error>>

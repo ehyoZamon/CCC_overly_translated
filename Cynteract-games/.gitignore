@@ -1,0 +1,14 @@
+Library/
+Temp/
+obj/
+Logs/
+Builds/
+Assets/Email/Resources/EmailConfig/
+*.csproj
+*.csproj.user
+*.sln
+*.env
+
+# Visual Studio cache directory
+.vs/
+

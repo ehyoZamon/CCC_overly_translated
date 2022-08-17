@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CynteractControlCenter
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 47a118d2e6824ec439c80f4d09327eca,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: showSplashScreen
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shutDown
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: selfRegister
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: startWindow
+    value: 
+    objectReference: {fileID: 8665436657738251868, guid: 40e012aa2b09d5e478a875a145ea6ec7,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: connectionWindow
+    value: 
+    objectReference: {fileID: 8665436657738251868, guid: 40e012aa2b09d5e478a875a145ea6ec7,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: loginWindow
+    value: 
+    objectReference: {fileID: 9006603055023980856, guid: c4e9da6df1184d54cb02590e66348e9d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: homeWindow
+    value: 
+    objectReference: {fileID: 6938815834975690169, guid: b3838631e683463478aaf25822571d7f,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: trainingWindow
+    value: 
+    objectReference: {fileID: 5366175196208879572, guid: c68bb9b6cbef1fd44a509431da9ca0c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: endOfTrainingWindow
+    value: 
+    objectReference: {fileID: 1615897952, guid: a381353d0a8eea24d908551b1b976931,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: therapistHomeWindow
+    value: 
+    objectReference: {fileID: 2100768606, guid: f3f7ac8251fe8a44285c017fd626ecb6,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameSelectionWindow
+    value: 
+    objectReference: {fileID: 5273208560685343873, guid: 9b805843b96bea3468dbad61b531be6a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: finishWindow
+    value: 
+    objectReference: {fileID: 4509980029978583265, guid: 593103d59976ec749b8cc44075eb3c19,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: achievementsWindow
+    value: 
+    objectReference: {fileID: 4357129927792569824, guid: 971a7ff64587a8144b3e3d3dbe8b7674,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: statisticsWindow
+    value: 
+    objectReference: {fileID: 5507447122578274051, guid: 901635960c810774ebc43ba368f0db89,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: profileWindow
+    value: 
+    objectReference: {fileID: 6604439321162945824, guid: 44bf58df9d3efcf4baf02c4902502d2b,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: settings
+    value: 
+    objectReference: {fileID: 9129241175010325794, guid: 27ae331991f636a4ca7262e925f36ec9,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: helpWindow
+    value: 
+    objectReference: {fileID: 904053776919950220, guid: 9966764e720821d42ba08e374d4c3365,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: versionText
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tutorialPopupWindow
+    value: 
+    objectReference: {fileID: 7853539543558226968, guid: f1c4c2dd45535c84faf2f92c6927a81e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: diagnosisPopupWindow
+    value: 
+    objectReference: {fileID: 5349352250973533819, guid: 8ce3c0ddda92d9d4b9ae9fa8c603bf91,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: logoVideoPopupWindow
+    value: 
+    objectReference: {fileID: 3392231985953459735, guid: a6582e955ae8efc47ba1f12f861f616f,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: exitConfirmationPopupWindow
+    value: 
+    objectReference: {fileID: 7704043596890624016, guid: ad55baa071cac174eb6dc4ac6cccdbc0,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: playtimeWarningPopupWindow
+    value: 
+    objectReference: {fileID: 8445442265951758962, guid: 8a4c8e8860bb3b342b4692b5e87b12b8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: instantiatedWindows.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: windowsPanel
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: popupWindowCanvas
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cGames.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cGames.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 6d6005ecb0ff0a24ea4b8402410ec3d1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cGames.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: c304d820df297144cbc2f5f199c619c3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cGames.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 0f885125b3cead74d9e2e37fb4650ca3, type: 2}
+  m_ExcludedProperties: []

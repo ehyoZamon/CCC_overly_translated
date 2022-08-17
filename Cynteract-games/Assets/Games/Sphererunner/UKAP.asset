@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b7c795840f671042aad6c7d85a72347, type: 3}
+  m_Name: UKAP
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  endpart: {fileID: 4486927705474668, guid: 01737e0d70eb96d4b908a0d5561991f9, type: 3}
+  startPart: {fileID: 4122063151837840, guid: ecd1a69c97f7d8149b1bc5ee9a4771ab, type: 3}
+  flatPart: {fileID: 4003849263967482, guid: 53c6ac6d8729c954d831fdcc0ef84973, type: 3}
+  loadFromFolder: 0
+  lvls:
+  - numberOfParts: 50
+    additionalParts:
+    - {fileID: 4772512720810506, guid: dd6c160a62f453f42a8e6db6e09e3b1a, type: 3}
+    - {fileID: 4066558574210034, guid: 68add61b5bd1119429c5427afc152d53, type: 3}

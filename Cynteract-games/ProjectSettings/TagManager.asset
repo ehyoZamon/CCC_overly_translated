@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cannonball
+  - Booster
+  - Projectile
+  - Enemy
+  - Brick
+  - Coin
+  - Bonus
+  - PlayerHead
+  - Field
+  - CpuHead
+  - Ball
+  - MiddlePole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tunnelrunner Rocket
+  - Tunnelrunner Wall
+  - 
+  - SpaceInvaders Coin
+  - SpaceInvaders Magnet
+  - SpaceInvadersPlayer
+  - 
+  - 
+  - 
+  - 
+  - Soccer game Player
+  - Soccer Game Ball
+  - Soccer Game Pole
+  - Soccer Game Goal
+  - 
+  - RoadCrossing Player
+  - RoadCrossing Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2426866383
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pop ups
+    uniqueID: 1579281707
+    locked: 0
+  - name: Base UI
+    uniqueID: 2750840515
+    locked: 0
+  - name: SpaceinvaderUpgrade
+    uniqueID: 2101290109
+    locked: 0
+  - name: SpaceInvader Obstacle
+    uniqueID: 1715282905
+    locked: 0
+  - name: Spaceinvader Shield
+    uniqueID: 148664945
+    locked: 0
+  - name: Spaceinvader Player
+    uniqueID: 2863044099
+    locked: 0
+  - name: Soccer Game Goal
+    uniqueID: 355620633
+    locked: 0
+  - name: Soccer Game Player
+    uniqueID: 3370852185
+    locked: 0
+  - name: Sphererunner Trail
+    uniqueID: 1095966315
+    locked: 0
+  - name: RoadCrossing Road
+    uniqueID: 1739727823
+    locked: 0
+  - name: RoadCrossingObject
+    uniqueID: 2322540383
+    locked: 0
+  - name: RoadCrossingWall
+    uniqueID: 835060359
+    locked: 0

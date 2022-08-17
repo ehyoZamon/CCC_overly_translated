@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bb34d4c3886134cad9904e6c9c961a, type: 3}
+  m_Name: New World Generation Settings
+  m_EditorClassIdentifier: 
+  diameterOverScore:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 25
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 3.0588717
+      value: 6.9846773
+      inSlope: -0.41827437
+      outSlope: -0.41827437
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 25.048344
+      value: 4.3654075
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  absOffsetAllowed:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.020712666
+      value: 4.996698
+      inSlope: 0.43679082
+      outSlope: 0.43679082
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.02102367
+    - serializedVersion: 3
+      time: 9.948786
+      value: 4.003828
+      inSlope: 0.0030304668
+      outSlope: 0.0030304668
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.046672218
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  stepsPerPart: 10
+  celling: 40
+  bottom: -40
+  stepDistance: 10
+  interpolationSteps: 10
+  itemDistance: 4
+  divideBy: 5000

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4140268479
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: jumpandrunlevels
+      Dependencies: {}

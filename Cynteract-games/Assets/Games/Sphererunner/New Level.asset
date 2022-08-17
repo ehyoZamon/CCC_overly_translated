@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b7c795840f671042aad6c7d85a72347, type: 3}
+  m_Name: New Level
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  endpart: {fileID: 4486927705474668, guid: 01737e0d70eb96d4b908a0d5561991f9, type: 3}
+  startPart: {fileID: 4122063151837840, guid: ecd1a69c97f7d8149b1bc5ee9a4771ab, type: 3}
+  flatPart: {fileID: 4003849263967482, guid: 53c6ac6d8729c954d831fdcc0ef84973, type: 3}
+  loadFromFolder: 0
+  lvls:
+  - numberOfParts: 4
+    additionalParts:
+    - {fileID: 4772512720810506, guid: dd6c160a62f453f42a8e6db6e09e3b1a, type: 3}
+  - numberOfParts: 4
+    additionalParts:
+    - {fileID: 4066558574210034, guid: 68add61b5bd1119429c5427afc152d53, type: 3}
+  - numberOfParts: 4
+    additionalParts:
+    - {fileID: 4993207780555580, guid: 66fe2e232254b1a4da6c88aa56e393ad, type: 3}
+  - numberOfParts: 7
+    additionalParts:
+    - {fileID: 4853202924772596, guid: 9c4a8f60958ba5b4498b8e2f298003dc, type: 3}
+    - {fileID: 4578862510246998, guid: 6796d0423e2eeca42971ce7496f4e9e1, type: 3}
+  - numberOfParts: 7
+    additionalParts:
+    - {fileID: 4885309287218948, guid: 329f2aedd59275c4494d08fb41e25c7c, type: 3}
+    - {fileID: 4787167425670924, guid: 42b24cb8a99aa854bac7a4dc0687b441, type: 3}
+  - numberOfParts: 7
+    additionalParts:
+    - {fileID: 4752628455478238, guid: 1cf2f7398ed5fa44bada514371d2e501, type: 3}
+    - {fileID: 4402977305077692, guid: bada0bb1dda287043943c2a5bdc07139, type: 3}
+  - numberOfParts: 7
+    additionalParts:
+    - {fileID: 4706130966189028, guid: dc43f180529b0834cae7b8ad631e14d9, type: 3}
+    - {fileID: 4603065544111030, guid: 398a29a8fda804d4891280701cf87d97, type: 3}
+  - numberOfParts: 10
+    additionalParts:
+    - {fileID: 4765408847858478, guid: d717ebd7104bf4f4699b55859baddea3, type: 3}
+    - {fileID: 4690973441870906, guid: 16e9114c26eb47f4ca23478b3469d1f2, type: 3}
+  - numberOfParts: 7
+    additionalParts:
+    - {fileID: 4706130966189028, guid: dc43f180529b0834cae7b8ad631e14d9, type: 3}
+    - {fileID: 4603065544111030, guid: 398a29a8fda804d4891280701cf87d97, type: 3}

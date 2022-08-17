@@ -1,0 +1,18 @@
+<<<<<<< HEAD:Assets/Glove/HardwareCheck.unity.meta
+fileFormatVersion: 2
+guid: d6fb91100894d944aa8f531b73c995c6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 332f32bf37c1f7c4da9391fe34644622
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> master:Assets/Materials/GreenYellow.mat.meta
