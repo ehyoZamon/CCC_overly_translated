@@ -77,6 +77,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fd41c14c2fee99543867b457218485f1, type: 2}
   - {fileID: 11400000, guid: 8a8404816b08aa94782078129024521f, type: 2}
   - {fileID: 11400000, guid: 38ff46dc93437cf4ab340805ded91590, type: 2}
+  - {fileID: 11400000, guid: 3fe679eb2beaf2c47be04c3cd946e0ff, type: 2}
+  - {fileID: 11400000, guid: c1a88af5000becf499b2aac0c91cc97a, type: 2}
+  - {fileID: 11400000, guid: a51093972f1eaf24b831ab962a2c4625, type: 2}
+  - {fileID: 11400000, guid: 50ca67dc90698f44fa10f3e8cfd9168a, type: 2}
+  - {fileID: 11400000, guid: 5bad06c99d96d5442991e18f153a1833, type: 2}
+  - {fileID: 11400000, guid: 9530aca8fcfe72c4490dbe8df4e8bd5c, type: 2}
   m_matchMaterialPreset: 1
   m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45,
     type: 2}
