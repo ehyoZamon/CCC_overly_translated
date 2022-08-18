@@ -83,6 +83,18 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 50ca67dc90698f44fa10f3e8cfd9168a, type: 2}
   - {fileID: 11400000, guid: 5bad06c99d96d5442991e18f153a1833, type: 2}
   - {fileID: 11400000, guid: 9530aca8fcfe72c4490dbe8df4e8bd5c, type: 2}
+  - {fileID: 11400000, guid: ad118e9bc3628ff40a88564023adeb40, type: 2}
+  - {fileID: 11400000, guid: e6e66cd4285433d4c9061742d62155b6, type: 2}
+  - {fileID: 11400000, guid: 23b5cccf36b9748459ade7522fbcd094, type: 2}
+  - {fileID: 11400000, guid: c1a88af5000becf499b2aac0c91cc97a, type: 2}
+  - {fileID: 11400000, guid: 8ce5a521ed99b5e43bdcd8ed32c79284, type: 2}
+  - {fileID: 11400000, guid: 973a0d46bad87304db6081d59c51ab8b, type: 2}
+  - {fileID: 11400000, guid: c5e4700f10021ff41a72e17498680b96, type: 2}
+  - {fileID: 11400000, guid: e41c62c6fa7a1c8488466cbe017400d0, type: 2}
+  - {fileID: 11400000, guid: 3b1a8781d4ddebd48ae61291cb68d470, type: 2}
+  - {fileID: 11400000, guid: 825bc935d2dcf3942a42bb40e1158a7f, type: 2}
+  - {fileID: 11400000, guid: 12ba0fc76a94852428c5cc1d1b6188a0, type: 2}
+  - {fileID: 11400000, guid: 1c97583e190cd9b409d433d7d016feeb, type: 2}
   m_matchMaterialPreset: 1
   m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45,
     type: 2}

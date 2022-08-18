@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a388f631a1e5bc41924fbe58b5ae828
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chenla
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d9773c5d01e8b9e4e9fb0edf5244bc97, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
