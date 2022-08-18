@@ -70,6 +70,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0b91522b933fe5245992f66bb2e85e8c, type: 2}
   - {fileID: 11400000, guid: fb91e14164fbef84992e6f8636930898, type: 2}
   - {fileID: 11400000, guid: 8d4194e66db698948bd061369da11b80, type: 2}
+  - {fileID: 11400000, guid: dddf172fd25026d418da32dec1eed606, type: 2}
+  - {fileID: 11400000, guid: f2ccc0d5960ad6648a03f5a620ae9518, type: 2}
+  - {fileID: 11400000, guid: de6c3be0e69edda4eb165cb561ce9632, type: 2}
+  - {fileID: 11400000, guid: 24b789d50c278474cb96d6564d224ccc, type: 2}
+  - {fileID: 11400000, guid: fd41c14c2fee99543867b457218485f1, type: 2}
+  - {fileID: 11400000, guid: 8a8404816b08aa94782078129024521f, type: 2}
+  - {fileID: 11400000, guid: 38ff46dc93437cf4ab340805ded91590, type: 2}
   m_matchMaterialPreset: 1
   m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45,
     type: 2}
