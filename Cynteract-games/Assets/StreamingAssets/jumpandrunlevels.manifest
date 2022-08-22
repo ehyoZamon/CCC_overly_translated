@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2229102716
+CRC: 2805075374
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3bb6e13337dcfbd8f4dace529cc98426
+    Hash: 0656603fdd4b5286b63b0543c4f38f2f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6923f6c09e3ab79779f171abd68916b5
+    Hash: d15667b8dfbbc02d163d0c84dc84cd92
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,13 +19,21 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
 - Class: 58
   Script: {instanceID: 0}
 - Class: 60
   Script: {instanceID: 0}
 - Class: 61
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
 - Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
@@ -36,6 +44,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c2e62d071c0f1254aa054c3f26c3728d, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1b0e2161a5f4e0d48838943b941c8365, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: d6639eb599d014c4cba7df32c3fd51c9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7cd9da30bc0d04848b940e9b19c865d1, type: 3}
@@ -44,7 +54,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 593ad1d994fb10746bc3e9dc5ce42f55, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ec85237462948ed4683168094cf745e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 217e4b2e1eda25b46b4fab752e8013e3, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 157
@@ -65,13 +79,18 @@ Assets:
 - Assets/Games/Platformer/Scenes/Levels/123.unity
 - Assets/Games/Platformer/Scenes/Levels/151.unity
 - Assets/Games/Platformer/Scenes/Levels/152.unity
+- Assets/Games/Platformer/Scenes/Levels/1196.unity
+- Assets/Games/Platformer/Scenes/Levels/1193.unity
 - Assets/Games/Platformer/Scenes/Levels/112.unity
 - Assets/Games/Platformer/Scenes/Levels/144.unity
+- Assets/Games/Platformer/Scenes/Levels/1191.unity
+- Assets/Games/Platformer/Scenes/Levels/1195.unity
 - Assets/Games/Platformer/Scenes/Levels/131.unity
 - Assets/Games/Platformer/Scenes/Levels/113.unity
 - Assets/Games/Platformer/Scenes/Levels/10.unity
 - Assets/Games/Platformer/Scenes/Levels/150.unity
 - Assets/Games/Platformer/Scenes/Levels/124.unity
+- Assets/Games/Platformer/Scenes/Levels/1194.unity
 - Assets/Games/Platformer/Scenes/Levels/114.unity
 - Assets/Games/Platformer/Scenes/Levels/142.unity
 - Assets/Games/Platformer/Scenes/Levels/143.unity
@@ -83,6 +102,7 @@ Assets:
 - Assets/Games/Platformer/Scenes/Levels/132.unity
 - Assets/Games/Platformer/Scenes/Levels/125.unity
 - Assets/Games/Platformer/Scenes/Levels/130.unity
+- Assets/Games/Platformer/Scenes/Levels/1192.unity
 - Assets/Games/Platformer/Scenes/Levels/141.unity
 - Assets/Games/Platformer/Scenes/Levels/115.unity
 - Assets/Games/Platformer/Scenes/Levels/121.unity
