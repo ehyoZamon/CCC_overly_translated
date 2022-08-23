@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2805075374
+CRC: 855515479
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0656603fdd4b5286b63b0543c4f38f2f
+    Hash: ae43eb780cf7f2d911910d8508c5766d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d15667b8dfbbc02d163d0c84dc84cd92
+    Hash: 6727fd76bfe3086bd7345e7c115f2593
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,8 +29,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
@@ -38,9 +36,13 @@ ClassTypes:
 - Class: 104
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 269b6b6a87bd18e428ae21d9d6b6ddab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 807dd704aee7c40438f8700d49fdd5e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c2e62d071c0f1254aa054c3f26c3728d, type: 3}
 - Class: 114
@@ -54,11 +56,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 217e4b2e1eda25b46b4fab752e8013e3, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 593ad1d994fb10746bc3e9dc5ce42f55, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ec85237462948ed4683168094cf745e4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 217e4b2e1eda25b46b4fab752e8013e3, type: 3}
+  Script: {fileID: 11500000, guid: e121e599c1fc8e24f8d2e7c288a8870f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 157
@@ -81,10 +85,11 @@ Assets:
 - Assets/Games/Platformer/Scenes/Levels/152.unity
 - Assets/Games/Platformer/Scenes/Levels/1196.unity
 - Assets/Games/Platformer/Scenes/Levels/1193.unity
+- Assets/Games/Platformer/Scenes/Levels/1195.unity
 - Assets/Games/Platformer/Scenes/Levels/112.unity
 - Assets/Games/Platformer/Scenes/Levels/144.unity
 - Assets/Games/Platformer/Scenes/Levels/1191.unity
-- Assets/Games/Platformer/Scenes/Levels/1195.unity
+- Assets/Games/Platformer/Scenes/Levels/1197.unity
 - Assets/Games/Platformer/Scenes/Levels/131.unity
 - Assets/Games/Platformer/Scenes/Levels/113.unity
 - Assets/Games/Platformer/Scenes/Levels/10.unity
