@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 855515479
+CRC: 326134266
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae43eb780cf7f2d911910d8508c5766d
+    Hash: 5a4097af5884200401f39a722b347a8a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6727fd76bfe3086bd7345e7c115f2593
+    Hash: 4ea695cec71c1a96773b147ad30fee6c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,7 +15,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
@@ -44,7 +50,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e121e599c1fc8e24f8d2e7c288a8870f, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: c2e62d071c0f1254aa054c3f26c3728d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1b0e2161a5f4e0d48838943b941c8365, type: 3}
 - Class: 114
@@ -56,14 +66,16 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 217e4b2e1eda25b46b4fab752e8013e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 593ad1d994fb10746bc3e9dc5ce42f55, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ec85237462948ed4683168094cf745e4, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e121e599c1fc8e24f8d2e7c288a8870f, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 128
   Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
@@ -76,6 +88,8 @@ ClassTypes:
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
+  Script: {instanceID: 0}
+- Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
